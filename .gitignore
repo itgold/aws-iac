@@ -1,0 +1,8 @@
+.idea
+.env
+*.iml
+**/.terraform/*
+*.tfstate*
+.terraform.lock.hcl
+compute.list
+workspace/**
